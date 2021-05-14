@@ -308,16 +308,16 @@
         },
         {
             "name": "barryvdh/laravel-debugbar",
-            "version": "v3.5.5",
+            "version": "v3.5.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/barryvdh/laravel-debugbar.git",
-                "reference": "6420113d90bb746423fa70b9940e9e7c26ebc121"
+                "reference": "88fd9cfa144b06b2549e9d487fdaec68265e791e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/barryvdh/laravel-debugbar/zipball/6420113d90bb746423fa70b9940e9e7c26ebc121",
-                "reference": "6420113d90bb746423fa70b9940e9e7c26ebc121",
+                "url": "https://api.github.com/repos/barryvdh/laravel-debugbar/zipball/88fd9cfa144b06b2549e9d487fdaec68265e791e",
+                "reference": "88fd9cfa144b06b2549e9d487fdaec68265e791e",
                 "shasum": ""
             },
             "require": {
@@ -377,7 +377,7 @@
             ],
             "support": {
                 "issues": "https://github.com/barryvdh/laravel-debugbar/issues",
-                "source": "https://github.com/barryvdh/laravel-debugbar/tree/v3.5.5"
+                "source": "https://github.com/barryvdh/laravel-debugbar/tree/v3.5.7"
             },
             "funding": [
                 {
@@ -385,7 +385,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2021-04-07T11:19:20+00:00"
+            "time": "2021-05-13T20:18:35+00:00"
         },
         {
             "name": "box/spout",
@@ -7411,12 +7411,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wikichua/dashing.git",
-                "reference": "19aef27579aa7f76c801ba2efed24637009a3f89"
+                "reference": "ca26a9c2953a532fff2346a730639783965ddc71"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wikichua/dashing/zipball/19aef27579aa7f76c801ba2efed24637009a3f89",
-                "reference": "19aef27579aa7f76c801ba2efed24637009a3f89",
+                "url": "https://api.github.com/repos/wikichua/dashing/zipball/ca26a9c2953a532fff2346a730639783965ddc71",
+                "reference": "ca26a9c2953a532fff2346a730639783965ddc71",
                 "shasum": ""
             },
             "require": {
@@ -7502,7 +7502,7 @@
                 "source": "https://github.com/wikichua/dashing/tree/main",
                 "issues": "https://github.com/wikichua/dashing/issues"
             },
-            "time": "2021-05-13T05:25:06+00:00"
+            "time": "2021-05-14T01:14:05+00:00"
         }
     ],
     "packages-dev": [
