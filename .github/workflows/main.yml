@@ -28,7 +28,8 @@ jobs:
       - name: Deployment
         uses: appleboy/ssh-action@v0.1.4
         with:
-          username: YOUR USERNAME GOES HERE
-          host: YOUR SERVER'S HOSTNAME GOES HERE
+          username: ${{ secrets.SSH_USERNAME }}
+          host: ${{ secrets.SSH_HOST }}
+          port: ${{ secrets.SSH_PORT }}
           password: ${{ secrets.SSH_PASSWORD }}
           script: 'cd ~/www/dashing && ./deploy.sh'
