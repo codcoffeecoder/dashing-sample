@@ -31,5 +31,5 @@ jobs:
           username: ${{ secrets.SSH_USERNAME }}
           host: ${{ secrets.SSH_HOST }}
           port: ${{ secrets.SSH_PORT }}
-          fingerprint: ${{ secrets.SSH_FINGERPRINT }}
+          key: ${{ secrets.SSH_KEY }}
           script: 'cd ~/www/dashing && ./deploy.sh'
