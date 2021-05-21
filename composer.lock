@@ -591,16 +591,16 @@
         },
         {
             "name": "doctrine/cache",
-            "version": "1.11.1",
+            "version": "1.11.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/cache.git",
-                "reference": "163074496dc7c3c7b8ccbf3d4376c0187424ed81"
+                "reference": "9c53086695937c50c47936ed86d96150ffbcf60d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/cache/zipball/163074496dc7c3c7b8ccbf3d4376c0187424ed81",
-                "reference": "163074496dc7c3c7b8ccbf3d4376c0187424ed81",
+                "url": "https://api.github.com/repos/doctrine/cache/zipball/9c53086695937c50c47936ed86d96150ffbcf60d",
+                "reference": "9c53086695937c50c47936ed86d96150ffbcf60d",
                 "shasum": ""
             },
             "require": {
@@ -670,7 +670,7 @@
             ],
             "support": {
                 "issues": "https://github.com/doctrine/cache/issues",
-                "source": "https://github.com/doctrine/cache/tree/1.11.1"
+                "source": "https://github.com/doctrine/cache/tree/1.11.2"
             },
             "funding": [
                 {
@@ -686,7 +686,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-05-18T16:45:32+00:00"
+            "time": "2021-05-20T14:57:29+00:00"
         },
         {
             "name": "doctrine/inflector",
@@ -1825,22 +1825,22 @@
         },
         {
             "name": "laravel/breeze",
-            "version": "v1.1.8",
+            "version": "v1.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/breeze.git",
-                "reference": "13026f7b3afd408d227b4f0c029b65f4ae4ba01e"
+                "reference": "322d60b8dfe452c807f01524ce0f6a76a985f72d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/breeze/zipball/13026f7b3afd408d227b4f0c029b65f4ae4ba01e",
-                "reference": "13026f7b3afd408d227b4f0c029b65f4ae4ba01e",
+                "url": "https://api.github.com/repos/laravel/breeze/zipball/322d60b8dfe452c807f01524ce0f6a76a985f72d",
+                "reference": "322d60b8dfe452c807f01524ce0f6a76a985f72d",
                 "shasum": ""
             },
             "require": {
-                "illuminate/filesystem": "^8.40",
-                "illuminate/support": "^8.40",
-                "illuminate/validation": "^8.40",
+                "illuminate/filesystem": "^8.42",
+                "illuminate/support": "^8.42",
+                "illuminate/validation": "^8.42",
                 "php": "^7.3|^8.0"
             },
             "type": "library",
@@ -1878,7 +1878,7 @@
                 "issues": "https://github.com/laravel/breeze/issues",
                 "source": "https://github.com/laravel/breeze"
             },
-            "time": "2021-05-18T15:15:45+00:00"
+            "time": "2021-05-20T13:41:13+00:00"
         },
         {
             "name": "laravel/framework",
@@ -7411,12 +7411,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wikichua/dashing.git",
-                "reference": "ff951336eb9c057e145dd080c8413eac7e09dea5"
+                "reference": "3e6202442afa19916d6ac927949e3fb486f85fb6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wikichua/dashing/zipball/ff951336eb9c057e145dd080c8413eac7e09dea5",
-                "reference": "ff951336eb9c057e145dd080c8413eac7e09dea5",
+                "url": "https://api.github.com/repos/wikichua/dashing/zipball/3e6202442afa19916d6ac927949e3fb486f85fb6",
+                "reference": "3e6202442afa19916d6ac927949e3fb486f85fb6",
                 "shasum": ""
             },
             "require": {
@@ -7501,7 +7501,7 @@
             "support": {
                 "source": "https://github.com/wikichua/dashing/tree/main"
             },
-            "time": "2021-05-20T02:03:52+00:00"
+            "time": "2021-05-21T04:13:53+00:00"
         }
     ],
     "packages-dev": [
