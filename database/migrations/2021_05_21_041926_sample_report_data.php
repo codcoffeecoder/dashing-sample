@@ -20,6 +20,11 @@ class SampleReportData extends Migration
             'queries' => ["select * from settings;","select * from roles;"],
             'status' => 'A',
         ]);
+        app(config('dashing.Models.Cronjob'))->query()->create([
+            'name' => 'Run Report',
+            'command' => 'dashing:run:report',
+            'status' => 'A',
+        ]);
     }
 
     /**
