@@ -7411,12 +7411,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wikichua/dashing.git",
-                "reference": "1ac0f64d8a8bf755e0315fb79e0aaf4f25d4dbf9"
+                "reference": "5dd8561da4edb22731e72978ac38187b85ab2a56"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wikichua/dashing/zipball/1ac0f64d8a8bf755e0315fb79e0aaf4f25d4dbf9",
-                "reference": "1ac0f64d8a8bf755e0315fb79e0aaf4f25d4dbf9",
+                "url": "https://api.github.com/repos/wikichua/dashing/zipball/5dd8561da4edb22731e72978ac38187b85ab2a56",
+                "reference": "5dd8561da4edb22731e72978ac38187b85ab2a56",
                 "shasum": ""
             },
             "require": {
@@ -7460,7 +7460,6 @@
                 "laravel": {
                     "providers": [
                         "Wikichua\\Dashing\\DashingServiceProvider",
-                        "Wikichua\\Dashing\\Providers\\EventServiceProvider",
                         "Wikichua\\Dashing\\Providers\\HelpServiceProvider",
                         "Wikichua\\Dashing\\Providers\\BrandServiceProvider",
                         "Wikichua\\Dashing\\Providers\\CollectionPaginationServiceProvider",
@@ -7503,7 +7502,7 @@
             "support": {
                 "source": "https://github.com/wikichua/dashing/tree/main"
             },
-            "time": "2021-05-22T00:42:46+00:00"
+            "time": "2021-05-22T02:00:14+00:00"
         }
     ],
     "packages-dev": [
