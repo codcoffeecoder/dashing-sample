@@ -8,7 +8,7 @@ class DashingSampleTable extends Migration
 {
     public function up()
     {
-        cache()->tags(['fillable'])->flush();
+        cache()->tags(['fillable','setup'])->flush();
         Schema::create('samples', function (Blueprint $table) {
             $table->increments('id');
             $table->longText('markdown')->nullable();

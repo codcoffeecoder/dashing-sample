@@ -102,10 +102,6 @@ class Sample extends Eloquent
     return $query->whereBetween('dob', [ $this->inUserTimezone($date['start_at']), $this->inUserTimezone($date['stop_at'])]);
     }
 
-    public function scopeFilterDateTime($query, $search)
-    {
-    }
-
     public function scopeFilterPublishedAt($query, $search)
     {
     $date = $this->getDateFilter($search);
