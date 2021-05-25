@@ -22,7 +22,7 @@ class SampleReportData extends Migration
         ]);
         app(config('dashing.Models.Cronjob'))->query()->create([
             'name' => 'Run Report',
-            'command' => 'dashing:run:report',
+            'command' => 'dashing:run:report --clearcache',
             'status' => 'A',
         ]);
     }
