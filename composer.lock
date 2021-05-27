@@ -7412,12 +7412,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/wikichua/dashing.git",
-                "reference": "8febe13cf5cef61d515a10a671b9f1527f8364f2"
+                "reference": "664378599adb1071ddbb90b043a4e013ae91ecbb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wikichua/dashing/zipball/8febe13cf5cef61d515a10a671b9f1527f8364f2",
-                "reference": "8febe13cf5cef61d515a10a671b9f1527f8364f2",
+                "url": "https://api.github.com/repos/wikichua/dashing/zipball/664378599adb1071ddbb90b043a4e013ae91ecbb",
+                "reference": "664378599adb1071ddbb90b043a4e013ae91ecbb",
                 "shasum": ""
             },
             "require": {
@@ -7503,7 +7503,7 @@
             "support": {
                 "source": "https://github.com/wikichua/dashing/tree/main"
             },
-            "time": "2021-05-27T01:12:26+00:00"
+            "time": "2021-05-27T02:19:51+00:00"
         }
     ],
     "packages-dev": [
